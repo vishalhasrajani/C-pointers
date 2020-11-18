@@ -23,7 +23,8 @@ int main(void) {
 	englishBooks[2]=&titles[5];
 	englishBooks[3]=&titles[6];
 
-	printf("%s\n",*englishBooks[3]);
+	printf("%s\n",*englishBooks[3]); //Gulliver's Travels
+
 
 
 
