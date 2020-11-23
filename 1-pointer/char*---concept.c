@@ -14,7 +14,7 @@ int main(void) {
 
 	    for(int i=0; i<3; i++)
 	    {
-	           printf("%s", values[i]);
+	           printf("%s", values[i]); // printing ---> Hello Mew meww Miau miau =3
 	    }
 
 }
